@@ -1,0 +1,6 @@
+#Traffic Estimates
+#Zone Low (50%);Baseline High;(150%)
+homepage;600;1200;1800;
+games;150;300;450;
+video;550;1100;1650;
+ros;1150;2300;3450;
